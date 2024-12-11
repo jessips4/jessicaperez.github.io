@@ -1,4 +1,4 @@
-## Project Portafolio
+## Proyecto Portafolio
 ¡Hola! Jessica Perez Santiago, soy estudiante de licenciatura en ingeniero administrador de sistemas . Apasionada por la tecnología, aquí encontrarás información sobre mí..
 
 ### El proyecto cuenta con las secciones de:
