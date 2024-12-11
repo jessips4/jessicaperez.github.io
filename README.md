@@ -22,7 +22,7 @@ https://jessicaperez.github.io/
 ![Proyecto](/assets/Perfil-portafolio.png)
 ![Proyecto](/assets/Habilidades.png)
 ![Proyecto](assets/proyectos.png)
-![Proyecto](assets/Testimonios.jpeg)
+![Proyecto](assets/Testimonios.jpeg.png)
 ![Proyecto](assets/contacto.png)
 
 Espero pronto saber de ti! 💌
