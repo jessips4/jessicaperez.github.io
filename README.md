@@ -20,10 +20,10 @@
 Preview:
 https://jessicaperez.github.io/
 ![Proyecto](/assets/Perfil-portafolio.png)
-![Proyecto](/assets/Habilidades.PNG)
-![Proyecto](assets/proyectos.PNG)
+![Proyecto](/assets/Habilidades.png)
+![Proyecto](assets/proyectos.png)
 ![Proyecto](assets/Testimonios.jpeg)
-![Proyecto](assets/contacto.PNG)
+![Proyecto](assets/contacto.png)
 
 Espero pronto saber de ti! 💌
 E-mail: jesseper08@gmail.com
